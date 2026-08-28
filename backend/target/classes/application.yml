@@ -1,0 +1,20 @@
+server:
+  port: ${PORT:8080}
+
+spring:
+  profiles:
+    active: ${SPRING_PROFILES_ACTIVE:dev}
+
+logging:
+  pattern:
+    console: "%d{HH:mm:ss.SSS} %-5level [req=%X{requestId:-none}] %logger{36} - %msg%n"
+
+app:
+  kafka:
+    topic: operational-events
+  gemini:
+    api-key: ${GEMINI_API_KEY}
+    chat-model: gemini-3.6-flash
+    embedding-model: gemini-embedding-001
+  cors:
+    allowed-origin: ${FRONTEND_URL:http://localhost:5173}

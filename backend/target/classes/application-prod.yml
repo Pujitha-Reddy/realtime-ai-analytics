@@ -1,0 +1,8 @@
+spring:
+  data:
+    redis:
+      host: ${UPSTASH_REDIS_HOST}
+      port: ${UPSTASH_REDIS_PORT}
+      password: ${UPSTASH_REDIS_PASSWORD}
+      ssl:
+        enabled: true

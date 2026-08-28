@@ -1,0 +1,10 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+    consumer:
+      group-id: analytics-consumer
+      auto-offset-reset: earliest
+  data:
+    redis:
+      host: localhost
+      port: 6379
