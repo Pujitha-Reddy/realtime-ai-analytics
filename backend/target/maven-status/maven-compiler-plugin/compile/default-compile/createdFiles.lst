@@ -10,4 +10,5 @@ com/example/analytics/config/RequestIdFilter.class
 com/example/analytics/service/RagService$1.class
 com/example/analytics/dto/TrendPoint.class
 com/example/analytics/service/RagService$RetrievalResult.class
+com/example/analytics/config/GlobalExceptionHandler.class
 com/example/analytics/service/AlertService.class

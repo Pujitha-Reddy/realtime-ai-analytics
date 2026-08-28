@@ -1,5 +1,6 @@
 /Users/pujithamalladi/Documents/realtime-ai-analytics/backend/src/main/java/com/example/analytics/AnalyticsApplication.java
 /Users/pujithamalladi/Documents/realtime-ai-analytics/backend/src/main/java/com/example/analytics/config/CorsConfig.java
+/Users/pujithamalladi/Documents/realtime-ai-analytics/backend/src/main/java/com/example/analytics/config/GlobalExceptionHandler.java
 /Users/pujithamalladi/Documents/realtime-ai-analytics/backend/src/main/java/com/example/analytics/config/RateLimitFilter.java
 /Users/pujithamalladi/Documents/realtime-ai-analytics/backend/src/main/java/com/example/analytics/config/RedisConfig.java
 /Users/pujithamalladi/Documents/realtime-ai-analytics/backend/src/main/java/com/example/analytics/config/RequestIdFilter.java
