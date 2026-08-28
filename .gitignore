@@ -1,0 +1,16 @@
+# Backend
+backend/target/
+*.class
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Env files (URLs are fine to share, but keep the pattern strict as a habit)
+.env
+.env.local
+*.env.local
+
+# OS/editor
+.DS_Store
+.vscode/
