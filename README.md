@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
 # Real-Time AI Analytics Assistant
-</p>
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
